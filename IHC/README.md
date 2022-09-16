@@ -1,12 +1,16 @@
-<h1>Projeto 1</h1>
-<p>Objetivo: apresentar conceitos fundamentais de usabilidade, acessibilidade, UX e etc</p>
+<h1 align="center">Projeto 1</h1>
+<p align="center">Objetivo: apresentar conceitos fundamentais de usabilidade, acessibilidade, UX e etc</p>
 
-<h2>SIGA - home</h2>
-<h3>1.3.4 - Orientation Level AA (Added in 2.1)</h3>
+<h2>1. Perceptível</h2>
+<h3>1.3.4 - Orientation Level AA (SIGA-home)</h3>
 <p>O site não apresenta CSS que permite a visão tanto em paisagem quanto em retrato. De modo que dificulta a apresentação e a usabilidade do usário do site em questão.</p>
 
-<h2>Poki.com.br - Jogos online grátis</h2>
-<h3>1.4.5 - Images of Text Level AA</h3>
+<h3>1.4.5 - Images of Text Level AA (Poki.com.br - Jogos online grátis)</h3>
 
-<h2>dokimos.org</h2>
-<h3>1.4.1 - Use of Color Level A</h3>
+<h3>1.4.1 - Use of Color Level A (dokimos.org)</h3>
+
+<h2>2. Operável</h2>
+
+<h2>3. Compreensivo</h2>
+
+<h2>4. Robusto</h2>
