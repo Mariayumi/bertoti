@@ -14,6 +14,7 @@
 <img src="operavel1.png">
 
 <h2>3. Compreensivo</h2>
+<h3>3.1.6 - Pronunciation Level AAA</h3>
 <p>O site apresenta severos erros gramaticais da lingua inglesa, tornando difícil o entendimento do usuário</p>
 <img src="compreensivo1.png">
 
