@@ -7,9 +7,9 @@
 
 <h3>1.4.5 - Images of Text Level AA (Poki.com.br - Jogos online grátis)</h3>
 
-<h3>1.4.1 - Use of Color Level A (dokimos.org)</h3>
-
 <h2>2. Operável</h2>
+<h3>2.3.1 - Three Flashes or Below Threshold Level A (dokimos.org)</h3>
+<p>O site possui uma animação em loop de cores vibrantes, podendo causar ataques epilépticos ao usuário</p>
 
 <h2>3. Compreensivo</h2>
 
