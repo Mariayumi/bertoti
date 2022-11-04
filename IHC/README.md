@@ -2,20 +2,22 @@
 <p align="center">Objetivo: apresentar conceitos fundamentais de usabilidade, acessibilidade, UX e etc</p>
 
 <h2>1. Perceptível</h2>
-<h3>1.3.4 - Orientation Level AA (SIGA-home)</h3>
-<p>O site não apresenta CSS que permite a visão tanto em paisagem quanto em retrato. De modo que dificulta a apresentação e a usabilidade do usário do site em questão.</p>
-
-<h3>1.4.5 - Images of Text Level AA (Poki.com.br - Jogos online grátis)</h3>
+<details>
+<summary><h4>1.4.5 - Images of Text Level AA (Poki.com.br - Jogos online grátis)</h4></summary>
+<p>O site apresenta imagens de jogos, os quais não possuem identificação textual ou descrição prévia sobre do que se trata os jogos. Além de, por apresentar demasiadas imagens, polui a tela e dificulta o entendimento do usuário, podendo causar cansaço mental.</p>
 <img src="perceptivel2.png">
+</details>
 
 <h2>2. Operável</h2>
-<h3>2.3.1 - Three Flashes or Below Threshold Level A (dokimos.org)</h3>
-<p>O site possui uma animação em loop de cores vibrantes, podendo causar ataques epilépticos ao usuário</p>
+<details>
+<summary><h4>2.3.1 - Three Flashes or Below Threshold Level A (dokimos.org)</h4></summary>
+<p>Por conta de utilizar de cores vibrantes, ter uma animação em loop e elementos piscantes, o site oferece um grave risco a saúde do usuário, uma vez que pode causar convulsões no mesmo.</p>
 <img src="operavel1.png">
+</details>
 
 <h2>3. Compreensivo</h2>
-<h3>3.1.6 - Pronunciation Level AAA</h3>
-<p>O site apresenta severos erros gramaticais da lingua inglesa, tornando difícil o entendimento do usuário</p>
+<details>
+<summary><h4>3.1.6 - Pronunciation Level AAA</h4></summary>
+<p>O site falha com essa heurística ao apresentar textos gramaticalmente errados da lingua inglesa, de modo que confunde a usabilidade tanto dos usuários com vasto entendimento da língua quanto aqueles que não possuem tal conhecimento.</p>
 <img src="compreensivo1.png">
-
-<h2>4. Robusto</h2>
+</details>
