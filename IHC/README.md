@@ -19,6 +19,11 @@
 <p>Por conta de utilizar de cores vibrantes, ter uma animação em loop e elementos piscantes, o site oferece um grave risco a saúde do usuário, uma vez que pode causar convulsões no mesmo.</p>
 <img src="./images/operavel1.png">
 </details>
+<details>
+<summary><h4>ACERTO - 2.2.2 Pause, Stop, Hide Level A (YouTube)</h4></summary>
+<p>O site possui um contador e opções de pausar e pular para o próximo vídeo, permitindo ao usuário leia e use o conteúdo livremente.</p>
+<img src="./images/operavel2.png">
+</details>
 
 <h2>3. Compreensivo</h2>
 <details>
