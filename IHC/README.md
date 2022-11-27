@@ -7,6 +7,11 @@
 <p>O site apresenta imagens de jogos, os quais não possuem identificação textual ou descrição prévia sobre do que se trata os jogos. Além de, por apresentar demasiadas imagens, polui a tela e dificulta o entendimento do usuário, podendo causar cansaço mental.</p>
 <img src="./images/perceptivel2.png">
 </details>
+<details>
+<summary><h4>ACERTO - 1.3.4 Orientation Level AA (MATTEL Brasil)</h4></summary>
+<p>O site não se restrita a somente uma orientação de exibição, ele se adapta a qualquer dispositivo, dando disponibilidade ao usuário acessa-lo de modo eficiente.</p>
+<img src="./images/perceptivel.png">
+</details>
 
 <h2>2. Operável</h2>
 <details>
