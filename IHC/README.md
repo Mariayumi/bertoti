@@ -12,6 +12,11 @@
 <p>O site não se restrita a somente uma orientação de exibição, ele se adapta a qualquer dispositivo, dando disponibilidade ao usuário acessa-lo de modo eficiente.</p>
 <img src="./images/perceptivel.png">
 </details>
+<details>
+<summary><h4>ACERTO - 1.2.9 Audio-only (Live) Level AAA (<a link="">terra.com.br<?a>)</h4></summary>
+<p>O site disponibiliza para o usuário um áudio narrativo sobre o que está escrito no artigo. Assim, tanto analfabetos, quanto usuários com alguma incapacitação visual possam ter acesso a informação escrita.</p>
+<img src="./images/perceptivel3.png">
+</details>
 
 <h2>2. Operável</h2>
 <details>
